@@ -1,0 +1,7 @@
+2026-10-09 11:22:55,289 - motor_insurance - INFO - Logging system initialized successfully.
+2026-10-09 11:22:55,289 - motor_insurance - WARNING - This is a sample warning message.
+2026-10-09 11:22:55,289 - motor_insurance - ERROR - This is a sample error message.
+2026-10-09 11:24:00,034 - motor_insurance - INFO - Motor Insurance Analytics pipeline started.
+2026-10-09 11:24:00,035 - motor_insurance - INFO - Loading raw insurance datasets...
+2026-10-09 11:24:00,172 - motor_insurance - INFO - Validating datasets...
+2026-10-09 11:24:00,193 - motor_insurance - ERROR - Validation found data quality issues.
